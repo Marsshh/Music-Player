@@ -1,0 +1,31 @@
+[
+    {
+        "name": "World, Hold On (FISHER Rework)",
+        "artist": "FISHER",
+        "path": "songs/World-Hold-On.mp3",
+        "duration": "2:58",
+        "img": "covers/fisher.jpg"
+    },
+    {
+        "name": "Meet her at the love parade",
+        "artist": "Vieze Asbak",
+        "path": "songs/Vieze-Asbak.mp3",
+        "duration": "3:12",
+        "img": "covers/vieze.jpg"
+    },
+    {
+        "name": "King of the Bongo (techno)",
+        "artist": "Manuchao",
+        "path": "songs/bongo.mp3",
+        "duration": "4:09",
+        "img": "covers/bongo.jpg"
+    },
+    {
+        "name": "Praise the Lord",
+        "artist": "A$ap Rocky",
+        "path": "songs/Praise-The-Lord.mp3",
+        "duration": "2:43",
+        "img": "covers/lord.jpg"
+    }
+   
+]
